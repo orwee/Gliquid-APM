@@ -42,7 +42,7 @@ REBALANCE = True
 
 # Sampling / freeze behavior
 SAMPLE_PERIOD = 60        # compute bands every SAMPLE_PERIOD observations
-REBALANCE_HOLD = 30      # freeze range for this many observations after a forced change (you can set 50 if you prefer)
+REBALANCE_HOLD = 30      # freeze range for this many observations after a forced change
 GAS_PENALTY_USD = 0.2    # subtract this fixed USD when range is changed
 
 # Band enter/exit / blending
