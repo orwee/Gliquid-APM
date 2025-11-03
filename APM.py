@@ -27,7 +27,7 @@ from datetime import datetime
 import multiprocessing
 
 # ---------------- CONFIG ----------------
-DATA_CSV = r"C:/Users/Administrator/Downloads/data_backtesting_adaptado.csv"
+DATA_CSV = r"C:/Users/Administrator/Downloads/data_backtesting_sample.csv"
 
 OUT_FOLDER = r"C:\Users\Administrator\Desktop\Folder2"
 OUT_RESULTS = os.path.join(OUT_FOLDER, "backtesting_results_apr_bollinger_fixed.csv")
