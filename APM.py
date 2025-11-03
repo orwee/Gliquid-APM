@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # backtest_bollinger.py
 """
-Backtest simplificado: BOLLINGER bands (fixed params)
+BOLLINGER bands (fixed params)
 - strategy: Bollinger
 - n = 8
 - k = 8
